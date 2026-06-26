@@ -125,7 +125,7 @@ Movies = [Movie1, Movie2, Movie3]
 
 print("List of your favourite movies is: ", Movies)
 
-#Write a program to check if list contains palindrome of elements or not
+#2 Write a program to check if list contains palindrome of elements or not
 
 pd1 = input("enter pd1:")
 pd2 = input("enter pd2:")
@@ -144,5 +144,49 @@ if(copy_palindrome == palindrome):
     print("List is Palindrome.")
 else:
     print("List is not palindrome.")
+
+
+#3 Write a program to check if list contains palindrome of elements or not
+
+pd1 = input("enter pd1:")
+pd2 = input("enter pd2:")
+pd3 = input("enter pd3:")
+pd4 = input("enter pd4:")
+pd5 = input("enter pd5:")
+pd6 = input("enter pd6:")
+pd7 = input("enter pd7:")
+
+palindrome = [pd1, pd2, pd3, pd4, pd5, pd6, pd7]
+
+copy_palindrome = palindrome.copy()
+copy_palindrome.reverse()
+
+if(copy_palindrome == palindrome):
+    print("List is Palindrome.")
+else:
+    print("List is not palindrome.")
+
+
+#4.1 Write a program to count the number of students with grade "B" in a Tuple.
+#4.2 Store the above values in alist and sort them from A to D.
+
+
+St1 = input("Enter student's grade:")
+St2 = input("Enter student's grade:")
+St3 = input("Enter student's grade:")
+St4 = input("Enter student's grade:")
+St5 = input("Enter student's grade:")
+St6 = input("Enter student's grade:")
+St7 = input("Enter student's grade:")
+St8 = input("Enter student's grade:")
+St9 = input("Enter student's grade:")
+St10 =input("Enter student's grade:")
+
+Student_grade_tuple = (St1, St2, St3, St4, St5, St6, St7, St8, St9, St10)
+print("Number of students with grade B:", Student_grade_tuple.count("B"))
+
+Student_grade_list = list(Student_grade_tuple)
+Student_grade_list.sort()
+print(Student_grade_list)
 
 
