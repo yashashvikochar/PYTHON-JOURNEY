@@ -125,4 +125,24 @@ Movies = [Movie1, Movie2, Movie3]
 
 print("List of your favourite movies is: ", Movies)
 
+#Write a program to check if list contains palindrome of elements or not
+
+pd1 = input("enter pd1:")
+pd2 = input("enter pd2:")
+pd3 = input("enter pd3:")
+pd4 = input("enter pd4:")
+pd5 = input("enter pd5:")
+pd6 = input("enter pd6:")
+pd7 = input("enter pd7:")
+
+palindrome = [pd1, pd2, pd3, pd4, pd5, pd6, pd7]
+
+copy_palindrome = palindrome.copy()
+copy_palindrome.reverse()
+
+if(copy_palindrome == palindrome):
+    print("List is Palindrome.")
+else:
+    print("List is not palindrome.")
+
 
