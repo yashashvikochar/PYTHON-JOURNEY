@@ -15,7 +15,7 @@ This repository serves as a structured documentation of my programming fundament
   * Arithmetic, relational, assignment, and logical operators.
   * Solved entry-level engineering practice problems (Square Area, Multi-variable Averages, Numeric Comparisons).
  
-* **`02_strings_and_conditionals.py`**
+* **`02_python_basics.py`**
   * String concatenation, indexing, and advanced slicing.
   * String methods (`.endswith()`, `.capitalize()`, `.replace()`, `.find()`, `.count()`).
   * Conditional logic execution flows using `if-elif-else` control blocks.
