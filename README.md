@@ -26,6 +26,7 @@ This repository serves as a structured documentation of my programming fundament
     * Understanding memory and structural differences between mutable and immutable elements.
     * Utilizing essential built-in sequence methods(`.append()`, `.sort()`, `.reverse()`, `.insert()`,`.remove()`, `.pop()`).
     * Advanced indexing, slicing syntax, and frequency counting (`.count()`, `.index()`).
-    * Solved structural data practice problems (Dynamic favorite movies list tracker).
+    * Solved structural data practice problems (Dynamic favorite movies list tracker, **List Palindrome Checker, and Tuple-to-List Grade Sorter**).
+      
 
 *“The sky is not the limit, it’s the baseline.”*
