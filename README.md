@@ -1,6 +1,6 @@
 # 🚀 My Python Journey for Avionics Systems
 
-This repository serves as a structured documentation of my programming fundamentals. I am utilizing my summer break before starting my BTech degree to build rock-solid coding foundations tailored for aerospace applications, autonomous drones, and avionics engineering.
+This repository documents my programming journey as I build a strong foundation for Electronics Engineering, Embedded Systems, Avionics, and Aerospace Research & Development. I am utilizing the summer before my B.Tech to develop disciplined programming habits and problem-solving skills that will support future work in flight control systems, embedded software, autonomous aircraft, and aerospace technologies.
 
 ## 📌 Technical Goals
 * Master logic building and data structures via Python.
@@ -27,6 +27,14 @@ This repository serves as a structured documentation of my programming fundament
     * Utilizing essential built-in sequence methods(`.append()`, `.sort()`, `.reverse()`, `.insert()`,`.remove()`, `.pop()`).
     * Advanced indexing, slicing syntax, and frequency counting (`.count()`, `.index()`).
     * Solved structural data practice problems (Dynamic favorite movies list tracker, **List Palindrome Checker, and Tuple-to-List Grade Sorter**).
+
+* **`04_python_basics.py`**
+    * Implementing Python Dictionaries for efficient key-value data organization.
+    * Understanding mutable mapping structures, nested dictionaries, and dynamic data manipulation.
+    * Utilizing built-in dictionary methods (`.keys()`, `.values()`, `.items()`, `.get()`, `.update()`, `.pop()`).
+    * Exploring Python Sets for storing unique, unordered collections and performing mathematical set operations.
+    * Applying essential set methods (`.add()`, `.remove()`, `.discard()`, `.clear()`, `.union()`, `.intersection()`).
+    * Solved practical programming exercises involving student records, unique value extraction, nested data structures, and aerospace-inspired telemetry datasets.
       
 
 *“The sky is not the limit, it’s the baseline.”*
