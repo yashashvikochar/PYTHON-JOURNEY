@@ -42,6 +42,14 @@ This repository documents my programming journey as I build a strong foundation 
     * Utilizing the `range()` function for controlled numerical iteration.
     * Practicing sequence traversal through lists, tuples, and strings.
     * Solved logical programming exercises including multiplication tables, square number generation, numerical search, factorial computation, even-number summation, and countdown-style iteration.
-      
+
+* **`06_python_basics.py`**
+  * Creating reusable functions using the `def` keyword.
+  * Understanding function parameters, return values, and function calls.
+  * Using default and non-default arguments.
+  * Formatting output with the `end` parameter in `print()`.
+  * Implementing engineering-based functions (Area, Speed, Flight Schedule, Currency Conversion, Average Calculator).
+  * Introduction to recursion and recursive function calls.
+  * Solved practice problems using both iterative and recursive approaches (Factorial, Sum of Natural Numbers, Reverse Counting, Recursive List Traversal).
 
 *“The sky is not the limit, it’s the baseline.”*
