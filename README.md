@@ -35,6 +35,13 @@ This repository documents my programming journey as I build a strong foundation 
     * Exploring Python Sets for storing unique, unordered collections and performing mathematical set operations.
     * Applying essential set methods (`.add()`, `.remove()`, `.discard()`, `.clear()`, `.union()`, `.intersection()`).
     * Solved practical programming exercises involving student records, unique value extraction, nested data structures, and aerospace-inspired telemetry datasets.
+
+* **`05_python_basics.py`**
+    * Implementing iterative programming using `while` and `for` loops.
+    * Understanding loop control with `break`, `continue`, and `pass` statements.
+    * Utilizing the `range()` function for controlled numerical iteration.
+    * Practicing sequence traversal through lists, tuples, and strings.
+    * Solved logical programming exercises including multiplication tables, square number generation, numerical search, factorial computation, even-number summation, and countdown-style iteration.
       
 
 *“The sky is not the limit, it’s the baseline.”*
