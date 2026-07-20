@@ -52,4 +52,11 @@ This repository documents my programming journey as I build a strong foundation 
   * Introduction to recursion and recursive function calls.
   * Solved practice problems using both iterative and recursive approaches (Factorial, Sum of Natural Numbers, Reverse Counting, Recursive List Traversal).
 
+* **`07_file_input_output.py`**
+    * Reading, writing, appending, and updating text files using Python.
+    * Understanding file modes (`r`, `w`, `a`, `r+`) and context managers using `with`.
+    * Performing file manipulation tasks including word replacement, searching, and line detection.
+    * Using the `os` module for basic file management.
+    * Solved practical problems (Word Search in File, Word Replacement, Line Finder, and Even Number Counter from File Data).
+
 *“The sky is not the limit, it’s the baseline.”*

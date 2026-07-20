@@ -1,0 +1,32 @@
+Aircraft telemetry includes hundreds of parameters grouped into five core categories.
+Here is what comes in an aircraft telemetry data stream:
+1. Flight Dynamics and Navigation
+Altitude: Barometric height, radar height, and GPS altitude.
+Airspeed: Indicated airspeed, true airspeed, and Mach number.
+Attitude: Pitch, roll, and yaw angles of the aircraft.
+Position: Exact GPS coordinates and heading.
+Rates of Change: Vertical speed and turn coordination rates.
+
+2. Propulsion and Engine Health
+RPM: Fan, compressor, and turbine rotational speeds.
+Temperatures: Exhaust gas temperature (EGT) and inter-stage turbine temperature (ITT).
+Pressures: Engine oil pressure, fuel pressure, and hydraulic pressure.
+Fuel Metrics: Fuel flow rate, total fuel remaining, and fuel tank temperatures.
+Vibration: Engine casing vibration levels to detect internal wear.
+
+3. Aircraft Systems Status
+Electrical: Bus voltages, battery charge levels, and generator loads.
+Hydraulics: Fluid levels, pressures, and valve positions for landing gear and brakes.
+Environmental: Cabin pressure, cockpit temperature, and oxygen supply levels.Actuators: 
+Deflection angles of ailerons, elevators, rudders, and flaps.
+Landing Gear: Weight-on-wheels sensor status and gear door locks.
+
+4. Structural and Environmental Conditions
+G-Force: Normal, longitudinal, and lateral acceleration forces.
+Structural Strain: Stress measurements on the wings, fuselage, and tail via strain gauges.
+External Environment: Outside air temperature (OAT), static pressure, and icing indicators.
+
+5. Pilot Inputs and Automation
+Control Column: Physical positions of the yoke, sidestick, and rudder pedals.
+Throttle Position: Throttle lever angle (TLA) commanded by the pilot.
+Autopilot Status: Engagement modes, flight director cues, and automated targets.
