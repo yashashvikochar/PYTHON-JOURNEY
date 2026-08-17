@@ -1,6 +1,6 @@
 # 🚀 My Python Journey for Avionics Systems
 
-This repository documents my programming journey as I build a strong foundation for Electronics Engineering, Embedded Systems, Avionics, and Aerospace Research & Development. I am utilizing the summer before my B.Tech to develop disciplined programming habits and problem-solving skills that will support future work in flight control systems, embedded software, autonomous aircraft, and aerospace technologies.
+This repository documents my programming journey as I build a strong foundation for Electrical Engineering, Embedded Systems, Avionics, and Aerospace Research & Development. I am utilizing the summer before my B.Tech to develop disciplined programming habits and problem-solving skills that will support future work in flight control systems, embedded software, autonomous aircraft, and aerospace technologies.
 
 ## 📌 Technical Goals
 * Master logic building and data structures via Python.
